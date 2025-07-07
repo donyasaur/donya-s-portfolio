@@ -4,7 +4,6 @@
 ### Dataset
 - [Animal Crossing Nookplaza Dataset (Kaggle)](https://www.kaggle.com/datasets/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset)
 
-## Case Study: How Do Item Prices Vary by Category or Season?
+This is a project I did where I analyzeditem price data from Animal Crossing: New Horizons to understand how prices differ by item category and season.
 
-### Objective
-Analyze item price data from Animal Crossing: New Horizons to understand how prices differ by item category and season.
+* Data was taken from the 
